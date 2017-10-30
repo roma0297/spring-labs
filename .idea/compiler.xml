@@ -18,14 +18,14 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-lab10" target="1.6" />
-      <module name="spring-lab3" target="1.5" />
-      <module name="spring-lab4" target="1.5" />
-      <module name="spring-lab5" target="1.5" />
-      <module name="spring-lab6" target="1.5" />
+      <module name="spring-lab3" target="1.8" />
+      <module name="spring-lab4" target="1.8" />
+      <module name="spring-lab5" target="1.8" />
+      <module name="spring-lab6" target="1.8" />
       <module name="spring-lab7" target="1.5" />
-      <module name="spring-lab8" target="1.5" />
-      <module name="spring-lab9" target="1.5" />
-      <module name="spring-labs" target="1.5" />
+      <module name="spring-lab8" target="1.8" />
+      <module name="spring-lab9" target="1.8" />
+      <module name="spring-labs" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
