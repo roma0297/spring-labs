@@ -16,6 +16,8 @@
         <module>spring-lab6</module>
         <module>spring-lab7</module>
         <module>spring-lab8</module>
+        <module>spring-lab9</module>
+        <module>spring-lab10</module>
     </modules>
 
     <properties>

@@ -6,21 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-lab10" />
         <module name="spring-lab3" />
         <module name="spring-lab4" />
         <module name="spring-lab5" />
         <module name="spring-lab6" />
         <module name="spring-lab7" />
         <module name="spring-lab8" />
+        <module name="spring-lab9" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spring-lab10" target="1.6" />
       <module name="spring-lab3" target="1.5" />
       <module name="spring-lab4" target="1.5" />
       <module name="spring-lab5" target="1.5" />
       <module name="spring-lab6" target="1.5" />
       <module name="spring-lab7" target="1.5" />
       <module name="spring-lab8" target="1.5" />
+      <module name="spring-lab9" target="1.5" />
       <module name="spring-labs" target="1.5" />
     </bytecodeTargetLevel>
   </component>
